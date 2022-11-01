@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JenkinsAssignment": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1FCz1/f6g364s0JckhjIrOwz/g8Ma0i1zw6oq+LAdPwdp4+PHrI8vVLzOahFy0N1s0fSSbcE+xj1/Ywxzb/iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DGautam\\OneDrive - Affinion Group\\Documents\\JenkinsAssignment\\JenkinsAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DGautam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
